@@ -5,9 +5,9 @@ For this script to work with Unity, you must compile a few dependencies.
 Don't be afraid, it's not that complicated!
 
 > Preconditions:
-- Microsoft Visual Studio
-- Microsoft VC++ distributables
-- Emgu CV use WCF(Windows Communication Foundation), therefore requires .Net 3.0
+> - Microsoft Visual Studio
+> - Microsoft VC++ distributables
+> - Emgu CV use WCF(Windows Communication Foundation), therefore requires .Net 3.0
 
 1. You will need EmguCV, a .net wrapper for OpenCV
     1. Download the newest release of EmguCV from https://sourceforge.net/projects/emgucv/
