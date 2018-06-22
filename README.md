@@ -1,5 +1,8 @@
 # Threaded Cascade Classifiers for Unity with Vuforia
 
+## References
+`UnityMainThreadDispatcher.cs` is from https://github.com/PimDeWitte/UnityMainThreadDispatcher
+
 ## Getting Started
 For this script to work with Unity, you must compile a few dependencies. 
 Don't be afraid, it's not that complicated!
@@ -25,3 +28,4 @@ Don't be afraid, it's not that complicated!
     1. Copy the file `System.Drawing.dll`
     1. Paste it to your `Plugins` folder, just like before. `Plugins` should now look like this: [Plugins after System Drawing dlls](https://raw.githubusercontent.com/Wurmloch/Unity-Threaded-CascadeClassifier/master/docs/emgucv_plugins_drawing.png)
   
+ 
